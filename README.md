@@ -1,1 +1,1 @@
-# vektorel_ders
+2.Hafta yapmış olduğumuz çalışmaları içerir.
