@@ -1,1 +1,1 @@
-2.Hafta yapmış olduğumuz çalışmaları içerir.
+VEKTÖREL AKADEMİDE ÇALIŞMIŞ OLDUĞUMUZ ÖRNEKLERİ İÇERİR.
