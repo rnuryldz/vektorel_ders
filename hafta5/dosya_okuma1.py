@@ -1,0 +1,1 @@
+dosya = open("C:/program dosyaları(x86)/internet explorer/images")
